@@ -47,10 +47,7 @@ const Hero = () => {
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
-              position={"right"}
-              handleClick={function (): void {
-                throw new Error("Function not implemented.");
-              }}
+              position="right"
             />
           </a>
         </div>

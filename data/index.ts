@@ -77,7 +77,7 @@ export const projects = [
     des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    link: "https://github.com/Zain-Ul-Abideen00",
   },
   {
     id: 2,
@@ -85,7 +85,7 @@ export const projects = [
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://github.com/Zain-Ul-Abideen00",
   },
   {
     id: 3,
@@ -93,7 +93,7 @@ export const projects = [
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    link: "https://github.com/Zain-Ul-Abideen00",
   },
   {
     id: 4,
@@ -101,38 +101,38 @@ export const projects = [
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    link: "https://github.com/Zain-Ul-Abideen00",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Zain was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Zain's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Zain is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Zain was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Zain's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Zain is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Zain was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Zain's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Zain is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Zain was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Zain's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Zain is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Zain was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Zain's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Zain is the ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
@@ -205,14 +205,20 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
+    name: "GitHub",
+    link: "https://github.com/Zain-Ul-Abideen00",
     img: "/git.svg",
   },
   {
     id: 2,
+    name: "Twitter",
+    link: "https://x.com/djzain33",
     img: "/twit.svg",
   },
   {
     id: 3,
+    name: "LinkedIn",
+    link: "https://www.linkedin.com/in/djzain33/",
     img: "/link.svg",
   },
 ];
