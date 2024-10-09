@@ -6,17 +6,9 @@ import * as Sentry from "@sentry/nextjs";
 
 Sentry.init({
   dsn: "https://165a8114a938671e3980c2481017085e@o4508081370431488.ingest.us.sentry.io/4508088122933248",
-  integrations: [
-    Sentry.feedbackIntegration({
-      // Additional SDK configuration goes in here, for example:
-      colorScheme: "dark",
-      isNameRequired: true,
-    }),
 
-    Sentry.replayIntegration(),
-  ],
-
-  
+  // Add optional integrations for additional features
+  integrations: [Sentry.replayIntegration()],
 
   // Define how likely traces are sampled. Adjust this value in production, or use tracesSampler for greater control.
   tracesSampleRate: 1,
