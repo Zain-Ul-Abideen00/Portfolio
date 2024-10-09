@@ -19,7 +19,7 @@ const nextConfig = {
         NEXT_PUBLIC_SANITY_API_WRITE_TOKEN: process.env.NEXT_PUBLIC_SANITY_API_WRITE_TOKEN,
     },
     experimental: {
-        appDir: true,
+        // appDir: true,
     },
     webpack: (config) => {
         config.resolve.fallback = { fs: false };
@@ -59,7 +59,7 @@ widenClientFileUpload: true,
 
 // Automatically annotate React components to show their full name in breadcrumbs and session replay
 reactComponentAnnotation: {
-enabled: true,
+enabled: false,
 },
 
 // Route browser requests to Sentry through a Next.js rewrite to circumvent ad-blockers.
